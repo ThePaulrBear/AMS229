@@ -1,6 +1,9 @@
 # Ignore the Textbook
 *.pdf
 
+# Ignore submissio files
+WintzP*
+
 # Created by https://www.gitignore.io/api/python,jupyternotebook
 
 ### JupyterNotebook ###
